@@ -73,9 +73,6 @@
 │   │   ├── text_guided_pruning.py
 │   │   └── video_swin_transformer.py
 │   ├── opts.py
-│   ├── Overall.pdf
-│   ├── Overall.png
-│   ├── PR-VG.tex
 │   ├── README.md
 │   ├── Shell/
 │   │   ├── Ablation/
@@ -144,7 +141,7 @@
 │   │   ├── box_ops.py
 │   │   ├── misc.py
 │   │   └── transforms.py
-│   └── Ziyang_Wang-6.pdf
+│   
 ├── Dataset/
 │   ├── DIOR_RSVG/
 │   │   ├── Annotations/

@@ -1,0 +1,4 @@
+# ninja log v7
+0	5844	1769400620747706680	/data/1c7611/LQVG_3D/models/ops/build/temp.linux-x86_64-cpython-310/data/1c7611/LQVG_3D/models/ops/src/cpu/ms_deform_attn_cpu.o	f8e6aa4b808afb6a
+1	19471	1769400620747706680	/data/1c7611/LQVG_3D/models/ops/build/temp.linux-x86_64-cpython-310/data/1c7611/LQVG_3D/models/ops/src/vision.o	5b535cbfa9316d55
+1	22810	1769400620747706680	/data/1c7611/LQVG_3D/models/ops/build/temp.linux-x86_64-cpython-310/data/1c7611/LQVG_3D/models/ops/src/cuda/ms_deform_attn_cuda.o	59bce3ed914caa7d
